@@ -1,0 +1,14 @@
+﻿{
+  "name": "js-starter-collection",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "test": "node ./scripts/run-all-tests.js",
+    "test:watch": "echo \"Run tests in packages using: cd packages/<pkg> && npm run test:watch\""
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.0"
+  }
+}

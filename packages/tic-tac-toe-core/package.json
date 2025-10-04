@@ -1,0 +1,12 @@
+{
+"name": "tic-tac-toe-core",
+"version": "0.1.0",
+"main": "src/game.js",
+"scripts": {
+"test": "vitest run",
+"test:watch": "vitest"
+},
+"devDependencies": {
+"vitest": "^1.0.0"
+}
+}

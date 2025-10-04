@@ -1,0 +1,1 @@
+export { flatten } from './array/flatten.js'

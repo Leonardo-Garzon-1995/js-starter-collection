@@ -1,0 +1,12 @@
+{
+"name": "js-utils-mini",
+"version": "0.1.0",
+"main": "src/index.js",
+"scripts": {
+"test": "vitest run",
+"test:watch": "vitest"
+},
+"devDependencies": {
+"vitest": "^1.0.0"
+}
+}
