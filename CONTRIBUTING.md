@@ -1,7 +1,7 @@
 ---
 
 
-## `CONTRIBUTING.md`
+## `CONTRIBUTING`
 
 
 ```md
