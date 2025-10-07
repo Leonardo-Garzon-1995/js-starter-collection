@@ -4,7 +4,6 @@
 ## `CONTRIBUTING`
 
 
-```md
 # Contributing to js-starter-collection
 
 
@@ -29,6 +28,7 @@ Thank you for wanting to contribute! We welcome improvements from learners and e
 - Link related issue (if any).
 - Add tests for new behavior/edge-cases.
 - Follow existing code style. Small changes are fine — we'll review kindly.
+- Use the existing guidelines and templates. 
 
 
 ## Communication
