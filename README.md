@@ -18,11 +18,11 @@ A collection of tiny, beginner-friendly **JavaScript** projects designed to help
 1. Fork the repo and clone your fork.
 2. Install dependencies (from repo root):
 ```bash
- npm install
+npm install
 ```
 
 3. Run test
 ```bash
-    npm test
+npm test
 ```
-4. Pick an issue labeled good first issue or help wanted. Follow CONTRIBUTING.md to open a PR.
+4. Pick an issue labeled good first issue or help wanted. Follow [CONTRIBUTING.md](./CONTRIBUTING.md) to open a PR.
