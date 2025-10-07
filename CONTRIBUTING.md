@@ -28,7 +28,7 @@ Thank you for wanting to contribute! We welcome improvements from learners and e
 - Link related issue (if any).
 - Add tests for new behavior/edge-cases.
 - Follow existing code style. Small changes are fine — we'll review kindly.
-- Use the existing guidelines and templates. 
+- Use the existing guidelines and templates. [ISSUE_TEMPLATE.md](./.github/workflows/ISSUE_TEMPLATE.md) and [PULL_REQUEST_TEMPLATE.md](./.github/workflows/PULL_REQUEST_TEMPLATE.md)
 
 
 ## Communication
