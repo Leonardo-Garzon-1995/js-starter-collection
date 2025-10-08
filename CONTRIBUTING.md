@@ -15,10 +15,16 @@ Thank you for wanting to contribute! We welcome improvements from learners and e
 
 1. Fork the repo and clone.
 2. Read the issue you want to work on and comment "I want to take this" so maintainers know.
-3. Create a branch: `git checkout -b feat/<short-description>`.
-4. Implement the change and add tests.
-5. Run tests locally: `npm test`.
-6. Commit & push, then open a PR using the template.
+3. Create a branch:
+   ```bash
+   git checkout -b feat/<short-description>
+   ```
+5. Implement the change and add tests.
+6. Run tests locally:
+   ```bash
+   npm test
+   ```
+9. Commit & push, then open a PR using the template.
 
 
 ## PR Expectations
